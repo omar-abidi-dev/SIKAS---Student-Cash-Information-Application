@@ -2,6 +2,8 @@
 
 > A terminal-based student dues management system written in Go, built for the **IF-49-INT** Programming Algorithm 2 practicum at Telkom University.
 
+<img src="assets/program-architecture.png" alt="SIKAS demo" width="700"/>
+
 ---
 
 ## Overview
