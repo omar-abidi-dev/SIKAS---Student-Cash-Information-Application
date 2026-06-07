@@ -147,7 +147,7 @@ Sorts by arrears (`totalDues − paidAmount`) in descending order — useful for
 ## Authors
 
 Developed by **Omar Abidi** and **Gama Hendra Guntara**  
-IF-49-INT · Informatics Engineering · Telkom University · 2026
+IF-49-INT · Bachelor of Informatics · Telkom University · 2026
 
 ---
 
