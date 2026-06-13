@@ -150,7 +150,7 @@ Developed by **Omar Abidi** and **Gama Hendra Guntara**
 IF-49-INT · Bachelor of Informatics · Telkom University · 2026
 = Task Distribution =
 * Member 1 (Omar) : Program architecture, data model design, searching algorithms (sequential & binary search), sorting algorithms (selection sort), UI, GitHub documentation.
-* Member 2 (Gamma) : the operations (add, edit, delete), payment recording module,, input/output helper functions, menu system, integration testing, statistics module, sorting algorithm (insertion sort), insertion sort.
+* Member 2 (Gamma) : the operations (add, edit, delete), payment recording module,, input/output helper functions, menu system, integration testing, statistics module, sorting algorithm (insertion sort).
 
 
 ---
